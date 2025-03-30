@@ -36,7 +36,7 @@
 ## Technology Stack
 
 - **Frontend & Visualization:**  
-  Streamlit, Altair, PyDeck, Folium
+  Streamlit
 
 - **API & Backend:**  
   FastAPI, Python (joblib, Pandas)
