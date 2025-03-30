@@ -24,8 +24,7 @@
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit‑Learn">
   </a>
 
-  <a href="https://flight-airfare-prediction-on-azure-with-webui.streamlit.app/">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+
   </a>
 </div>
 
