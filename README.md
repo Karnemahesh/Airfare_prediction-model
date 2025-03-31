@@ -1,4 +1,4 @@
-# Flight-Airfare-Prediction using ML ✈️
+# Airfare-Prediction using ML ✈️
 
 <div style="display: flex; gap: 10px;">
   
